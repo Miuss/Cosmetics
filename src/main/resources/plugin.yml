@@ -1,0 +1,8 @@
+name: Cosmetics
+version: ${project.version}
+main: me.genesismiuss.cosmetics.Cosmetics
+api-version: 1.17
+authors: [ GenesisMiuss ]
+description: itemadder 3d Cosmetics
+website: https://miuss.pro
+depend: [ProtocolLib]
